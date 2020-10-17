@@ -3,3 +3,11 @@ git second file is created
 git is updated
 
 2nd file is again updated
+
+3rd line is updated
+
+4th line is created
+
+5th line is write
+
+6th line is line of git
