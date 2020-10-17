@@ -11,3 +11,5 @@ git is updated
 5th line is write
 
 6th line is line of git
+
+7th line is write
